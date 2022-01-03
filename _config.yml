@@ -1,12 +1,90 @@
-# Site settings
-title: 'Jake Mingolla'
-email: 'jakemingolla@gmail.com'
-description: 'Portfolio and Website' # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+### Site Settings ###
+title               : Jake Mingolla
+description         : |
+  Hi :wave: I'm a Boston-based Software Engineer and avid potter.<br /><br />
+  Take a look around to see my personal software projects and photos
+  of recent firings.
+baseurl             : ""
+repository          : jakemingolla/jakemingolla.github.io
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : true
 
-#twitter_username:
-github_username: 'jakemingolla'
+### Plugins ###
+plugins:
+  - jemoji
 
-# Build settings
-markdown: kramdown
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/blog.html
+  - pages/404.html
+  - pages/index.md
+
+### Author Info ###
+author:
+  name              : Jake Mingolla
+#  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : /images/me-2.jpg
+#  behance           : your_username
+# dribbble          : your_username
+  email             : jakemingolla+jobs@gmail.com
+#  facebook          : your_username
+  github            : jakemingolla
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : jakemingolla
+#  medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+  stackoverflow     : jakemingolla
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

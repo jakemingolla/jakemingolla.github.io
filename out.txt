@@ -1,5 +1,0 @@
-Binary file .git/index matches
-_sass/_base.scss:    background-image: url('../img/header.jpg');
-Binary file .sass-cache/50bbc525339f8cf83560da15fab33893998e23c5/_base.scssc matches
-_site/css/main.css:  background-image: url("../img/header.jpg");
-_site/_site/css/main.css:  background-image: url("../img/header.jpg");

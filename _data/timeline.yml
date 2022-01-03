@@ -1,0 +1,48 @@
+- title: Graduate Certificate in Machine Learning,<br />Cornell University
+  from: 2021
+  to: 2022
+  description: |
+    <ul>
+      <li>Intensive course introducing foundational elements of machine learning via Python</li>
+      <li>Focused on mathematical theory behind many linear classifiers and regression systems</li>
+      <li>Implemented bi-weekly assignments in image recognition, spam classifiers, and deep neural networks using <a href="https://numpy.org/doc/stable/index.html">NumPy</a> and <a href="https://pytorch.org/">PyTorch</a></li>
+    </ul>
+
+- title: Senior Software Engineer, Brightcove
+  from: 2019
+  to: 2021
+  description: |
+    <ul>
+      <li>Designed, constructed, and patented a server-side ad insertion solution for client interactivity at enterprise scale, meeting strict infrastructure and design criteria</li>
+      <li>Led design and implementation for a Kubernetes infrastructure monitoring system used by Brightcove’s back-end engineers for general dev-ops and crisis management</li>
+      <li>Assisted in founding organization-level initiative for documentation reform</li>
+    </ul>
+
+- title: Software Engineer, Brightcove
+  from: 2016
+  to: 2019
+  description: |
+    <ul>
+      <li>Completed in-place migration of large data store with zero downtime</li>
+      <li>Identified and optimized bottleneck in organization-level process to reduce runtime</li>
+      <li>Developed system for proactively monitoring customer analytics and predicting usage</li>
+      <li>Orchestrated major version update for customer-facing REST API and assisted customers in configuring and upgrading plugin integrations</li>
+      <li>Presented new products and design improvements to customers and led workshop on platform integration at multi-day, in-person conference (Brightcove PLAY 2019)</li>
+      <li>Learned fundamentals of REST API design, testing, and operational monitoring</li>
+    </ul>
+
+- title: Software Development Summer Intern, Invaluable
+  from: 2014
+  to: 2015
+  description: |
+    <ul>
+      <li>Refactored Python-based email alerts and messaging system into Java</li>
+      <li>Adapted to stringent API requirements and created powerful testing suites</li>
+      <li>Created dynamic web-crawlers in Python</li>
+      <li>Collaborated with software team from planning stages through live release</li>
+    </ul>
+- title: BS Computer Science, Tufts University
+  from: 2012
+  to: 2016
+  description: |
+    Dean’s List: Spring 2012, Fall 2012, Spring 2013, Fall 2014
