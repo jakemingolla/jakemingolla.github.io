@@ -1,7 +1,7 @@
 # jakemingolla.github.io
 
 Personal portfolio and pottery showcase.
-Uses the [portfolYOU]["https://YoussefRaafatNasry.github.io/portfolYOU/] Jekyll
+Uses the [portfolYOU]("https://YoussefRaafatNasry.github.io/portfolYOU/) Jekyll
 theme under the MIT license.
 
 ## Local development
