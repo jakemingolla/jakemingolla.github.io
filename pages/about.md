@@ -5,9 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
-
-Hi I am **{{ site.author.name }}** :rocket:<br>
+# **About Me** 
 
 I am a Boston-based software engineer with experience
 in the design, implementation, and operational excellence of
