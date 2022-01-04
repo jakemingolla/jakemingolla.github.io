@@ -5,7 +5,10 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me** 
+<h1 id='about-me'>
+  <strong>About Me</strong>
+  {% include elements/button.html link="/assets/resume-2022.pdf" text="Resume" %}
+</h1>
 
 I am a Boston-based software engineer with experience
 in the design, implementation, and operational excellence of

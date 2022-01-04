@@ -1,9 +1,9 @@
 - title: Graduate Certificate in Machine Learning,<br />Cornell University
-  from: 2021
-  to: 2022
+  from: September 2021
+  to: December 2021
   description: |
     <ul>
-      <li>Intensive course introducing foundational elements of machine learning via Python</li>
+      <li>Completed intensive course introducing foundational elements of machine learning via Python</li>
       <li>Focused on mathematical theory behind many linear classifiers and regression systems</li>
       <li>Implemented bi-weekly assignments in image recognition, spam classifiers, and deep neural networks using <a href="https://numpy.org/doc/stable/index.html">NumPy</a> and <a href="https://pytorch.org/">PyTorch</a></li>
     </ul>

@@ -3,7 +3,12 @@ title               : Jake Mingolla
 description         : |
   Hi :wave: I'm a Boston-based Software Engineer and avid potter.<br /><br />
   Take a look around to see my personal software projects and photos
-  of recent firings.
+  of recent firings.<br /><br /><a
+    class="m-1 btn btn-outline-primary btn-md"
+    href="/assets/resume-2022.pdf"
+  >
+    Resume
+  </a>
 baseurl             : ""
 repository          : jakemingolla/jakemingolla.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -85,6 +90,6 @@ defaults:
 ### Exclude from processing ###
 exclude:
   - README.md
-  - CONTRIBUTING.md
   - LICENSE
+  - .gitignore
   - "*.log"
