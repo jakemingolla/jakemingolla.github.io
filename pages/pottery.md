@@ -11,13 +11,11 @@ located in Somerville, Massachusetts.
 Pieces are usually stoneware (occasionally porcelain) fired to cone 10.
 
 {% capture carousel_images %}
-/assets/images/pottery/2020-153-0.jpg
-/assets/images/pottery/2019-62-0.jpg
-/assets/images/pottery/2019-87-0.jpg
-/assets/images/pottery/2020-122-0.jpg
-/assets/images/pottery/2020-130-0.jpg
+/assets/images/pottery/mingolla_1.jpg
+/assets/images/pottery/mingolla_2.jpg
+/assets/images/pottery/mingolla_3.jpg
+/assets/images/pottery/mingolla_4.jpg
 /assets/images/pottery/2020-132-0.jpg
-/assets/images/pottery/2020-134-0.jpg
 /assets/images/pottery/2019-81-0.jpg
 {% endcapture %}
 {% include elements/carousel.html %}
