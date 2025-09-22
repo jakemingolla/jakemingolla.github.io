@@ -29,3 +29,6 @@ bundle install
 ```
 bundle exec jekyll serve --port 8080 --livereload
 ```
+
+## Patch file
+See https://github.com/rvm/rvm/issues/5483
