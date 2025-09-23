@@ -1,4 +1,33 @@
-- title: Graduate Certificate in Machine Learning,<br />Cornell University
+- title: Principal Software Engineer <br /><i><small>Robin</small></i>
+  from: March 2025
+  to: July 2025
+  description: |
+    <ul>
+      <li>Led the development of a customer-facing LLM-powered Text-to-SQL chat application, democratizing data access for non-technical users without sacrificing accuracy</li>
+      <li>Established the strategic vision and architectural blueprint for an organization-level REST API platform for multi-agent workloads, standardizing service-to-service streaming and rich UI functionality</li>
+      <li>Provided technical governance over a critical cross-cloud migration of legacy services, minimizing both downtime and risk</li>
+    </ul>
+
+- title: Staff Software Engineer <br /><i><small>Robin</small></i>
+  from: 2023
+  to: 2025
+  description: |
+    <ul>
+      <li>Integrated dashboard tooling for customer analytical visualizations, prioritizing security and seamless ecosystem integration</li>
+      <li>Led the design and Airflow implementation of a highly-available, low-latency batch classification service to process millions of calendar events, providing foundational data integrity for downstream analytics</li>
+      <li>Automated a zero-downtime, fully auditable migration pipeline of core analytical services from Redshift to Snowflake using Terraform, establishing a framework for developer self-service</li>
+    </ul>
+
+- title: Senior Software Engineer <br /><i><small>Robin</small></i>
+  from: 2022
+  to: 2023
+  description: |
+    <ul>
+      <li>Architected and delivered a high-throughput solution for customer data exports, reducing P99 latency from 8 hours to under 30 seconds and restoring reliable service for key enterprise clients</li>
+      <li>Spearheaded the creation of a production-mimicking testing platform utilizing secure, obfuscated customer data, resolving critical issues caused by unrealistic QA data and increasing developer confidence in shipping safe code</li>
+    </ul>
+
+- title: Graduate Certificate in Machine Learning <br /><i><small>Cornell University</small></i>
   from: September 2021
   to: December 2021
   description: |
@@ -8,7 +37,7 @@
       <li>Implemented bi-weekly assignments in image recognition, spam classifiers, and deep neural networks using <a href="https://numpy.org/doc/stable/index.html">NumPy</a> and <a href="https://pytorch.org/">PyTorch</a></li>
     </ul>
 
-- title: Senior Software Engineer, Brightcove
+- title: Senior Software Engineer <br /><i><small>Brightcove</small></i>
   from: 2019
   to: 2021
   description: |
@@ -18,7 +47,7 @@
       <li>Assisted in founding organization-level initiative for documentation reform</li>
     </ul>
 
-- title: Software Engineer, Brightcove
+- title: Software Engineer <br /><i><small>Brightcove</small></i>
   from: 2016
   to: 2019
   description: |
@@ -31,7 +60,7 @@
       <li>Learned fundamentals of REST API design, testing, and operational monitoring</li>
     </ul>
 
-- title: Software Development Summer Intern, Invaluable
+- title: Software Development Summer Intern <br /><i><small>Invaluable</small></i>
   from: 2014
   to: 2015
   description: |
@@ -41,8 +70,9 @@
       <li>Created dynamic web-crawlers in Python</li>
       <li>Collaborated with software team from planning stages through live release</li>
     </ul>
-- title: BS Computer Science, Tufts University
+- title: BS Computer Science <br /><i><small>Tufts University</small></i>
   from: 2012
   to: 2016
   description: |
-    Dean’s List: Spring 2012, Fall 2012, Spring 2013, Fall 2014
+    Magna Cum Laude<br />
+    Dean’s List: Fall 2012, Spring 2012, Spring 2013, Fall 2014
